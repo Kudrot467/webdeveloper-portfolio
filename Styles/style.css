@@ -163,6 +163,8 @@ main section{
     color: #474747;
     font-size: 16px;
     font-weight: 400;
+    width: 50%;
+    padding-left: 35%;
 }
 .form{
     border-radius: 5px;
@@ -170,12 +172,15 @@ main section{
     width: 461px;
     height: 64px;
     margin-top: 24px;
+    display: block;
 }
 .txt-area{
+    display: block;
     border-radius: 5px;
     background-color: white;
     width: 461px;
     height: 180px;
     margin-top: 24px;
+    margin-bottom: 10px;
 }
 
